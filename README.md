@@ -1,6 +1,6 @@
 # Hi there 👋 Mvtthew here! 👨🏼‍💻
 
-**Mvtthew** (Mateusz Ożóg) **Vue.js**/front-end developer  
+**Mvtthew** (Mateusz Ożóg) **Vue.js** / Frontend software developer  
 also 3rd year IT student. 
 
 ![Codewars](https://www.codewars.com/users/Mvtthew/badges/small)
