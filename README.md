@@ -1,7 +1,7 @@
 # Hi there 👋 Mvtthew here! 👨🏼‍💻
 
 **Mvtthew** (Mateusz Ożóg) **Vue.js** / Frontend software developer  
-also 3rd year IT student. 
+also CS graduate. 
 
 👉🏻 [![likendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-o%C5%BC%C3%B3g-73a54b176/) 👈🏻
 
